@@ -1,0 +1,15 @@
+-i https://pypi.org/simple
+arrow==0.13.1
+certifi==2019.3.9
+chardet==3.0.4
+gevent==1.4.0
+greenlet==0.4.15 ; platform_python_implementation == 'CPython'
+idna==2.8
+iso8601==0.1.12
+leancloud==2.1.10
+python-dateutil==2.8.0
+qiniu==7.2.2
+requests==2.21.0
+six==1.12.0
+urllib3==1.24.1
+werkzeug==0.15.1
