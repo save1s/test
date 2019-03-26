@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 leancloud = "*"
+flask = "*"
 
 [dev-packages]
 
